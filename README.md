@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi, I’m Muneeba Zahir — a Computer Engineering student passionate about building impactful tech solutions through AI, software development, and creative design.<br><br>I enjoy working on projects related to:<br><br>🤖 Artificial Intelligence & Machine Learning<br>💻 Software Development<br>🎛️ Embedded Systems & Verilog<br>📊 Data Analysis & Signal Processing<br>🎨 Graphic Design & Creative Tech<br><br>Currently, I’m exploring AI-powered applications, improving my development skills, and building projects that combine creativity with technology. I love learning new tools, solving real-world problems, and turning ideas into meaningful digital products.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muneeba-zahir/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muneebazahir20@gmail.com) 
 
